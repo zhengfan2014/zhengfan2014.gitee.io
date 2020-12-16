@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhengfan2014.gitee.io</id>
+    <id>http://localhost:4000</id>
     <title>zhengfan&apos;Blog</title>
-    <updated>2020-12-15T11:08:14.824Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhengfan2014.gitee.io"/>
-    <link rel="self" href="https://zhengfan2014.gitee.io/atom.xml"/>
-    <logo>https://zhengfan2014.gitee.io/images/avatar.png</logo>
-    <icon>https://zhengfan2014.gitee.io/favicon.ico</icon>
+    <updated>2020-12-16T04:56:08.951Z</updated>
+    <generator>https://zhengfan2014.gitee.io://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2020, zhengfan&apos;Blog</rights>
     <entry>
-        <title type="html"><![CDATA[个人的github 静态博客开通啦]]></title>
-        <id>https://zhengfan2014.gitee.io/post/ge-ren-de-github-jing-tai-bo-ke-kai-tong-la/</id>
-        <link href="https://zhengfan2014.gitee.io/post/ge-ren-de-github-jing-tai-bo-ke-kai-tong-la/">
+        <title type="html"><![CDATA[【置顶】个人的github 静态博客开通啦]]></title>
+        <id>http://localhost:4000/post/ge-ren-de-github-jing-tai-bo-ke-kai-tong-la/</id>
+        <link href="http://localhost:4000/post/ge-ren-de-github-jing-tai-bo-ke-kai-tong-la/">
         </link>
         <updated>2020-12-15T02:32:24.000Z</updated>
         <content type="html"><![CDATA[<p>最近发现爱发电屏蔽了未注册用户的动态浏览和对网页访问加大限制，需要手动复制粘贴打开网页。<br>
-故开此blog，作为kodi插件的另一个发布平台，以后有插件更新发布将会在两边同步更新</p>
+对一些对爱发电不是很了解的萌新造成了困扰，故开此blog，作为kodi插件的另一个发布平台，以后有插件更新发布将会在两边同步更新</p>
 <p>并将会陆陆续续搬运爱发电上历史动态过来</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[老插件翻新ing.......]]></title>
-        <id>https://zhengfan2014.gitee.io/post/lao-cha-jian-fan-xin-ing/</id>
-        <link href="https://zhengfan2014.gitee.io/post/lao-cha-jian-fan-xin-ing/">
+        <id>http://localhost:4000/post/lao-cha-jian-fan-xin-ing/</id>
+        <link href="http://localhost:4000/post/lao-cha-jian-fan-xin-ing/">
         </link>
         <updated>2020-11-22T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://zhengfan2014.gitee.io/post-images/1608000086057.jpg" alt="" loading="lazy"><br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608000089443.jpg" alt="" loading="lazy"><br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608000093387.jpg" alt="" loading="lazy"><br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608000109719.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="http://localhost:4000/post-images/1608000086057.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608000089443.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608000093387.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608000109719.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[acfun for kodi 0.2.4]]></title>
-        <id>https://zhengfan2014.gitee.io/post/acfun-for-kodi-024/</id>
-        <link href="https://zhengfan2014.gitee.io/post/acfun-for-kodi-024/">
+        <id>http://localhost:4000/post/acfun-for-kodi-024/</id>
+        <link href="http://localhost:4000/post/acfun-for-kodi-024/">
         </link>
         <updated>2020-10-17T16:00:01.000Z</updated>
         <content type="html"><![CDATA[<h3 id="更新内容">更新内容</h3>
@@ -44,18 +44,18 @@
 </ul>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 <h3 id="引用图片">引用图片</h3>
 <ul>
-<li>[1] <a href="https://www.acfun.cn/a/ac19875656">acfun UP主:鱼干贩卖机</a></li>
+<li>[1] <a href="https://zhengfan2014.gitee.io://www.acfun.cn/a/ac19875656">acfun UP主:鱼干贩卖机</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bilibili for kodi 0.5.7]]></title>
-        <id>https://zhengfan2014.gitee.io/post/bilibili-for-kodi-057/</id>
-        <link href="https://zhengfan2014.gitee.io/post/bilibili-for-kodi-057/">
+        <id>http://localhost:4000/post/bilibili-for-kodi-057/</id>
+        <link href="http://localhost:4000/post/bilibili-for-kodi-057/">
         </link>
         <updated>2020-10-17T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="更新内容">更新内容</h3>
@@ -67,18 +67,18 @@
 <li>修复biliplus 在win10上使用海外 --&gt; 国内无法观看的问题</li>
 <li>其他小修复</li>
 </ul>
-<p><img src="https://zhengfan2014.gitee.io/post-images/1608010306515.jpg" alt="" loading="lazy"><br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608010317603.jpg" alt="" loading="lazy"></p>
+<p><img src="http://localhost:4000/post-images/1608010306515.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608010317603.jpg" alt="" loading="lazy"></p>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[acfun for kodi 0.2.3]]></title>
-        <id>https://zhengfan2014.gitee.io/post/acfun-for-kodi-023/</id>
-        <link href="https://zhengfan2014.gitee.io/post/acfun-for-kodi-023/">
+        <id>http://localhost:4000/post/acfun-for-kodi-023/</id>
+        <link href="http://localhost:4000/post/acfun-for-kodi-023/">
         </link>
         <updated>2020-09-14T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -90,14 +90,14 @@
 </ul>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[acfun for kodi 0.2.2]]></title>
-        <id>https://zhengfan2014.gitee.io/post/acfun-for-kodi-022/</id>
-        <link href="https://zhengfan2014.gitee.io/post/acfun-for-kodi-022/">
+        <id>http://localhost:4000/post/acfun-for-kodi-022/</id>
+        <link href="http://localhost:4000/post/acfun-for-kodi-022/">
         </link>
         <updated>2020-08-29T16:00:01.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -108,17 +108,17 @@
 <li>修复播放视频失效问题</li>
 <li>新增视频列表简介显示</li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://zhengfan2014.gitee.io/post-images/1608010924427.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1608010924427.jpg" alt="" loading="lazy"></figure>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bangumi for kodi 0.2.0]]></title>
-        <id>https://zhengfan2014.gitee.io/post/bangumi-for-kodi-020/</id>
-        <link href="https://zhengfan2014.gitee.io/post/bangumi-for-kodi-020/">
+        <id>http://localhost:4000/post/bangumi-for-kodi-020/</id>
+        <link href="http://localhost:4000/post/bangumi-for-kodi-020/">
         </link>
         <updated>2020-08-29T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="更新内容">更新内容</h3>
@@ -136,14 +136,14 @@
 <p>PS:显示为粉色的网站使用弹幕插件搜索弹幕的时候会自动匹配番剧（如果a,b站有这部番的话）</p>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bilibili for kodi 0.5.6]]></title>
-        <id>https://zhengfan2014.gitee.io/post/bilibili-for-kodi-056/</id>
-        <link href="https://zhengfan2014.gitee.io/post/bilibili-for-kodi-056/">
+        <id>http://localhost:4000/post/bilibili-for-kodi-056/</id>
+        <link href="http://localhost:4000/post/bilibili-for-kodi-056/">
         </link>
         <updated>2020-08-16T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="更新内容">更新内容</h3>
@@ -154,17 +154,17 @@
 <li>修复 - 番剧剧集的排序方式，从最新一集到第一集</li>
 <li>新增 - 设置 - 海外模式，海外cdn替换，4k/1080p60显示开关</li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://zhengfan2014.gitee.io/post-images/1608011500066.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1608011500066.jpg" alt="" loading="lazy"></figure>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[reallive for kodi 0.1.2]]></title>
-        <id>https://zhengfan2014.gitee.io/post/reallive-for-kodi-012/</id>
-        <link href="https://zhengfan2014.gitee.io/post/reallive-for-kodi-012/">
+        <id>http://localhost:4000/post/reallive-for-kodi-012/</id>
+        <link href="http://localhost:4000/post/reallive-for-kodi-012/">
         </link>
         <updated>2020-08-06T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -176,18 +176,18 @@
 <li>修复 - 斗鱼解析失效（感谢wbt5的realurl的代码）</li>
 </ul>
 <p>注：win系统下kodi解析斗鱼直播地址中会出现两次这种窗口<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608011817925.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608011817925.jpg" alt="" loading="lazy"><br>
 是execjs运行js代码生成的，属于正常现象😂</p>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bilibili for kodi 0.5.5]]></title>
-        <id>https://zhengfan2014.gitee.io/post/bilibili-for-kodi-055/</id>
-        <link href="https://zhengfan2014.gitee.io/post/bilibili-for-kodi-055/">
+        <id>http://localhost:4000/post/bilibili-for-kodi-055/</id>
+        <link href="http://localhost:4000/post/bilibili-for-kodi-055/">
         </link>
         <updated>2020-08-04T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -207,23 +207,23 @@
 <h3 id="关于设置的大会员解析sess和主账号sess说明">关于设置的大会员解析sess和主账号sess说明</h3>
 <p>这个功能有点类似油猴的b站evol脚本的“被永封的大会员”功能<br>
 也就是，你不开启，使用下面的sess解析大会员视频<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012168099.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608012168099.jpg" alt="" loading="lazy"><br>
 就是使用你主账号填写sess来解析大会员和普通视频</p>
 <p>如果你开启了，只要是视频解析都会使用这个sess来解析，但是其他的比如读取你的收藏，追番等还是用你主账号的sess。</p>
 <h3 id="关于内置弹幕的食用方法">关于内置弹幕的食用方法：</h3>
 <p>首先，在设置了开启内置弹幕功能<br>
 然后设置好弹幕缓存文件夹<br>
 在播放视频的时候，选择右下角的字幕<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012187074.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608012187074.jpg" alt="" loading="lazy"><br>
 浏览字幕<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012197522.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608012197522.jpg" alt="" loading="lazy"><br>
 选择你之前设置的文件夹位置，选择那个ass字幕文件<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012208387.jpg" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1608012208387.jpg" alt="" loading="lazy"><br>
 完成效果<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012215377.jpg" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1608012215377.jpg" alt="" loading="lazy"></p>
 <h3 id="下载地址">下载地址</h3>
 <ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+<li><a href="https://zhengfan2014.gitee.io://lanzous.com/u/zheng2014">蓝奏云</a></li>
 </ul>
 ]]></content>
     </entry>
