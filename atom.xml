@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhengfan2014.gitee.io</id>
     <title>zhengfan&apos;Blog</title>
-    <updated>2020-12-16T13:06:45.097Z</updated>
+    <updated>2020-12-17T07:21:29.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhengfan2014.gitee.io"/>
     <link rel="self" href="https://zhengfan2014.gitee.io/atom.xml"/>
     <logo>https://zhengfan2014.gitee.io/images/avatar.png</logo>
     <icon>https://zhengfan2014.gitee.io/favicon.ico</icon>
     <rights>All rights reserved 2020, zhengfan&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[taptap for kodi 0.2.1]]></title>
+        <id>https://zhengfan2014.gitee.io/post/taptap-for-kodi-021/</id>
+        <link href="https://zhengfan2014.gitee.io/post/taptap-for-kodi-021/">
+        </link>
+        <updated>2020-12-17T06:50:54.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>警告：本插件有可能触发阿里云云盾的反爬虫防护，具体表现为你网络下所有设备使用taptap的网站和app播放视频出现视频无法播放502错误。大概隔个几十分钟后会解除封禁。<br>
+我把对m3u8文件的缓存时间加到30分钟，只测试了几个视频没有触发阿里云的云盾。没有大量测试过，不保证你的ip不会被封禁<br>
+<strong>使用前请三思</strong></p>
+</blockquote>
+<h3 id="本次更新">本次更新</h3>
+<ul>
+<li>修复taptap插件失效的代码</li>
+<li>加入缓存功能，降低请求频率</li>
+<li>增加简介，可以查看游戏具体评分，介绍等</li>
+</ul>
+<h3 id="demo">demo</h3>
+<p><img src="https://zhengfan2014.gitee.io/post-images/1608187966968.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608187977269.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608187981353.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608187989212.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608187995370.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608188000117.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608188005600.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608188014893.png" alt="" loading="lazy"><br>
+<img src="https://zhengfan2014.gitee.io/post-images/1608188027610.png" alt="" loading="lazy"></p>
+<h3 id="下载地址">下载地址</h3>
+<ul>
+<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【置顶】个人的github 静态博客开通啦&所有插件下载地址]]></title>
         <id>https://zhengfan2014.gitee.io/post/ge-ren-de-github-jing-tai-bo-ke-kai-tong-la/</id>
@@ -52,56 +85,56 @@
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center">Taptap</td>
+<td><a href="/tag/z9_Qn3T3q/">0.2.1</a></td>
+<td>2020-12-17</td>
+<td>TapTap是一个推荐高品质手游的手游分享社区，实时同步全球各大应用市场游戏排行榜，与全球玩家共同交流并发掘高品质手游。每一款推荐游戏，都是由专业的测评团队从全球海量的游戏中精选而出，只为你提供好玩的手机游戏。</td>
+</tr>
+<tr>
 <td style="text-align:center">bilibili</td>
-<td><a href="/post/bilibili-for-kodi-057/">0.5.7</a></td>
+<td><a href="/tag/AnAZzXQ8N/">0.5.7</a></td>
 <td>2020-10-18</td>
 <td>bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐</td>
 </tr>
 <tr>
 <td style="text-align:center">acfun</td>
-<td><a href="/post/acfun-for-kodi-024/">0.2.4</a></td>
+<td><a href="/tag/yV9Uu2QB5/">0.2.4</a></td>
 <td>2020-10-18</td>
 <td>AcFun是一家弹幕视频网站，致力于为每一个人带来欢乐</td>
 </tr>
 <tr>
 <td style="text-align:center">场库</td>
-<td>0.1.0</td>
+<td><a href="/tag/DhqtSxiYEJ/">0.1.0</a></td>
 <td>2020-03-29</td>
 <td>高品质短片分享平台,汇集优秀视频短片及微电影创作人,实时不断分享全球优秀视频短片,微电影</td>
 </tr>
 <tr>
 <td style="text-align:center">欢喜首映</td>
-<td>0.1.0</td>
+<td><a href="/tag/6VDPUOT-1/">0.1.0</a></td>
 <td>2020-03-29</td>
 <td>欢喜首映拥有王家卫、徐峥、陈可辛、宁浩、顾长卫、张一白、贾樟柯、张艺谋等巨匠影人为平台定制的大制作网剧、网络大电影,将视频播放与内容制作合二为一,首映厅首发好电影</td>
 </tr>
 <tr>
 <td style="text-align:center">天空之城</td>
-<td>0.1.0</td>
+<td><a href="/tag/SRm8GIBrne/">0.1.0</a></td>
 <td>2020-03-29</td>
 <td>世界各地的航拍摄影师、拍手叫绝的航拍作品与独具价值的航拍攻略。全世界的探索者们互相启发,乐在其中</td>
 </tr>
 <tr>
-<td style="text-align:center">Taptap</td>
-<td>0.1.0</td>
-<td>2020-03-29</td>
-<td>TapTap是一个推荐高品质手游的手游分享社区，实时同步全球各大应用市场游戏排行榜，与全球玩家共同交流并发掘高品质手游。每一款推荐游戏，都是由专业的测评团队从全球海量的游戏中精选而出，只为你提供好玩的手机游戏。</td>
-</tr>
-<tr>
 <td style="text-align:center">新片场</td>
-<td>0.1.0</td>
+<td><a href="/tag/_59DO8uY4j/">0.1.0</a></td>
 <td>2020-03-29</td>
 <td>新片场汇聚全球原创优质视频及创作人，提供4K、无广告、无水印视频观看，专业的视频艺术学习教程，正版视觉素材交易等，与数百万创作人一起用作品打动世界</td>
 </tr>
 <tr>
 <td style="text-align:center">微博视频</td>
-<td>0.1.1</td>
+<td><a href="/tag/_-f_STAMW/">0.1.1</a></td>
 <td>2020-03-16</td>
 <td>随时随地发现新鲜事！微博带你欣赏世界上每一个精彩瞬间，了解每一个幕后故事。</td>
 </tr>
 <tr>
 <td style="text-align:center">开眼</td>
-<td>0.1.0</td>
+<td><a href="/tag/71-NHEke1/">0.1.0</a></td>
 <td>2020-03-10</td>
 <td>精选视频推荐，每日大开眼界</td>
 </tr>
@@ -120,7 +153,7 @@
 <tbody>
 <tr>
 <td style="text-align:center">jsososo</td>
-<td>0.1.0</td>
+<td><a href="/tag/FX1AG7DsI/">0.1.0</a></td>
 <td>2020-05-15</td>
 <td>music.jsososo.com的音乐插件，播放你自己的网易云和QQ音乐歌单和日推</td>
 </tr>
@@ -139,13 +172,13 @@
 <tbody>
 <tr>
 <td style="text-align:center">Acfun 弹幕</td>
-<td>0.1.1</td>
+<td><a href="/tag/ChFt_in4W/">0.1.1</a></td>
 <td>2020-07-19</td>
 <td>获取并挂载acfun任意视频和番剧的弹幕，支持配合acfun插件显示弹幕，也可以用于本地nas上的番剧或者bangumi插件显示弹幕</td>
 </tr>
 <tr>
 <td style="text-align:center">Bilibili 弹幕</td>
-<td>0.1.1</td>
+<td><a href="/tag/ChFt_in4W/">0.1.1</a></td>
 <td>2020-07-19</td>
 <td>获取并挂载b站任意视频和番剧的弹幕，支持配合b站插件显示弹幕，也可以用于本地nas上的番剧或者bangumi插件显示弹幕</td>
 </tr>
@@ -163,22 +196,28 @@
 </thead>
 <tbody>
 <tr>
+<td style="text-align:center">bangumi</td>
+<td><a href="/tag/lQoK4IG06/">0.2.0</a></td>
+<td>2020-08-30</td>
+<td>模块化的小众番剧网站聚合插件，提供开发文档，让有python基础的用户无需学习kodi插件开发知识，为本插件快速适配番剧网站</td>
+</tr>
+<tr>
+<td style="text-align:center">reallive</td>
+<td><a href="/tag/IRePPhAGF/">0.1.2</a></td>
+<td>2020-08-07</td>
+<td>模块化的直播网站聚合插件，让有python基础的用户无需学习kodi插件开发知识，为本插件快速适配各大直播网站</td>
+</tr>
+<tr>
 <td style="text-align:center">cine</td>
-<td>0.2.0</td>
-<td>2020-06-14</td>
+<td><a href="/tag/TecXKMV-J/">0.2.0</a></td>
+<td>2020-06-15</td>
 <td>模块化的小众电影/电视剧/综艺网站聚合插件，提供开发文档，让有python基础的用户无需学习kodi插件开发知识，为本插件快速适配电影网站</td>
 </tr>
 <tr>
 <td style="text-align:center">vid</td>
-<td>0.1.0</td>
+<td><a href="/tag/pJxtf0kds/">0.1.0</a></td>
 <td>2020-05-03</td>
 <td>模块化的新闻/自媒体等单一视频网站聚合插件，提供开发文档，让有python基础的用户无需学习kodi插件开发知识，为本插件快速适配新闻/自媒体等网站</td>
-</tr>
-<tr>
-<td style="text-align:center">reallive</td>
-<td>0.1.1</td>
-<td>2020-06-09</td>
-<td>模块化的直播网站聚合插件，让有python基础的用户无需学习kodi插件开发知识，为本插件快速适配各大直播网站</td>
 </tr>
 </tbody>
 </table>
@@ -364,49 +403,6 @@
 <p>注：win系统下kodi解析斗鱼直播地址中会出现两次这种窗口<br>
 <img src="https://zhengfan2014.gitee.io/post-images/1608011817925.jpg" alt="" loading="lazy"><br>
 是execjs运行js代码生成的，属于正常现象😂</p>
-<h3 id="下载地址">下载地址</h3>
-<ul>
-<li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bilibili for kodi 0.5.5]]></title>
-        <id>https://zhengfan2014.gitee.io/post/bilibili-for-kodi-055/</id>
-        <link href="https://zhengfan2014.gitee.io/post/bilibili-for-kodi-055/">
-        </link>
-        <updated>2020-08-04T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>FBI Warring ! 本次更新会丢失插件以前所有设置！！</p>
-</blockquote>
-<h3 id="更新内容">更新内容</h3>
-<ul>
-<li>新增 - 知识区，国漫，纪录片等分类</li>
-<li>修改 - 设置移动至 选项 - 插件设置（图1）</li>
-<li>修复 - re 从零开始的异世界生活第二季番剧无法打开问题</li>
-<li>新增 - 大会员解析设置</li>
-<li>新增 - 内置弹幕（万分感谢shaolin-kongfu的代码）</li>
-<li>新增 - 弹幕ass文件保存位置设置</li>
-<li>修改 - danmuku.py仅删除弹幕文件夹下所有xml和ass文件</li>
-<li>新增 - 视频列表显示视频播放量，up主等信息</li>
-</ul>
-<h3 id="关于设置的大会员解析sess和主账号sess说明">关于设置的大会员解析sess和主账号sess说明</h3>
-<p>这个功能有点类似油猴的b站evol脚本的“被永封的大会员”功能<br>
-也就是，你不开启，使用下面的sess解析大会员视频<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012168099.jpg" alt="" loading="lazy"><br>
-就是使用你主账号填写sess来解析大会员和普通视频</p>
-<p>如果你开启了，只要是视频解析都会使用这个sess来解析，但是其他的比如读取你的收藏，追番等还是用你主账号的sess。</p>
-<h3 id="关于内置弹幕的食用方法">关于内置弹幕的食用方法：</h3>
-<p>首先，在设置了开启内置弹幕功能<br>
-然后设置好弹幕缓存文件夹<br>
-在播放视频的时候，选择右下角的字幕<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012187074.jpg" alt="" loading="lazy"><br>
-浏览字幕<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012197522.jpg" alt="" loading="lazy"><br>
-选择你之前设置的文件夹位置，选择那个ass字幕文件<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012208387.jpg" alt="" loading="lazy"><br>
-完成效果<br>
-<img src="https://zhengfan2014.gitee.io/post-images/1608012215377.jpg" alt="" loading="lazy"></p>
 <h3 id="下载地址">下载地址</h3>
 <ul>
 <li><a href="https://lanzous.com/u/zheng2014">蓝奏云</a></li>
